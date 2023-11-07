@@ -1,5 +1,5 @@
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
 <template>
-  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
   <div style="padding:30px;text-algin:center; width: 100%; align-items: center; display: flex; font-weight: 600;">
     <el-form ref="form" :model="form" style="width: 80%; margin-left: auto; margin-right: auto;">
       <el-container>
