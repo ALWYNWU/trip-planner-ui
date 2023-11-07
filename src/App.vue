@@ -1,4 +1,4 @@
-<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
+
 <template>
   <div id="app">
     <router-view/>
