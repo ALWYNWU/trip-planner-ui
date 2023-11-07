@@ -1,5 +1,5 @@
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
 <template>
-  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
   <div class="app-container">
     <div class="filter-container">
       <el-button class="filter-item" style="margin-left: 10px;" type="primary" icon="el-icon-edit" @click="handleCreate">
