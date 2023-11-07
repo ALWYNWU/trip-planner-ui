@@ -1,4 +1,3 @@
-<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
 <template>
   <div class="app-container">
     <div class="filter-container">
